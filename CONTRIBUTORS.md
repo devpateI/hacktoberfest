@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Dev Patel](https://github.com/devpatei)
+- Place: Gujarat, India
+- Bio: Python Developer
+- Github: [devpatei](https://github.com/devpatei)
